@@ -1,1 +1,1 @@
-"""立方体贴图接缝与过滤"""
+from .core import *  # noqa: F401,F403
