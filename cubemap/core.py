@@ -10,11 +10,6 @@ class Cube:
     faces: dict
 
 
-def Cube:
-    """class"""
-    raise NotImplementedError("Cube 尚未实现")
-
-
 def face_uv(direction):
     """方向转面与 UV"""
     raise NotImplementedError("face_uv 尚未实现")
